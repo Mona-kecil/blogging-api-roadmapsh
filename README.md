@@ -6,8 +6,8 @@ https://roadmap.sh/projects/blogging-platform-api
 - CRUD Operations
 
 # Roadmap
-- [ ] Create data models
-    - [ ] Create blog model
+- [x] Create data models
+    - [x] Create blog model
 - [ ] Create API endpoints
     - [ ] POST /blogs
     - [ ] GET /blogs
